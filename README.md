@@ -61,7 +61,8 @@ Repository NGUS ini berisi data untuk mendeteksi **link phishing, scam, situs be
 
 ## ⏱️ Proses Update
 
-- Setelah tambah data dan commit, Worker UnShort akan mengambil data baru dalam waktu maksimal 1 jam
+- Setelah tambah data dan commit, Admin akan review dulu sebelum merge
+- Worker UnShort akan mengambil data baru dalam waktu maksimal 1 jam
 
 ## 💡 Yang JANGAN Ditambahkan
 
@@ -74,6 +75,6 @@ Repository NGUS ini berisi data untuk mendeteksi **link phishing, scam, situs be
 
 ## 🙏 Terima Kasih
 
-Setiap kontribusi membantu pengguna UnShort terhindar dari penipuan online.
+Setiap kontribusi membantu semua orang terhindar dari penipuan online.
 
 Ada pertanyaan? Hubungi Admin.
