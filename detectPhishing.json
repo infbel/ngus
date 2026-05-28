@@ -89,5 +89,32 @@
     "redirect", "redirect_to", "return", "return_to", "next",
     "callback", "destination", "url", "link", "goto", "forward",
     "ref", "target", "out", "exit", "to"
+  ],
+  "whitelist_domains": [
+    "amazon.com",
+    "amazon.in",
+    "amazon.co.uk",
+    "amazon.ca",
+    "amazon.de",
+    "amazon.fr",
+    "amazon.es",
+    "amazon.it",
+    "google.com",
+    "google.co.id",
+    "google.co.uk",
+    "facebook.com",
+    "fb.com",
+    "instagram.com",
+    "twitter.com",
+    "x.com",
+    "whatsapp.com",
+    "telegram.org",
+    "paypal.com",
+    "shopee.com",
+    "shopee.co.id",
+    "tokopedia.com",
+    "blibli.com",
+    "lazada.com",
+    "lazada.co.id"
   ]
 }
