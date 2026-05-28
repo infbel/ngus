@@ -2,9 +2,16 @@
 
 Repository NGUS ini berisi data untuk mendeteksi **link phishing, scam, situs berbahaya, daftar putih dan lainnya** yang digunakan oleh Worker UnShort.
 
-## 🤝 Cara Berkontribusi: detectPhishing.json
+# 🤝 Cara Berkontribusi
 
-Cukup edit file `detectPhishing.json` dan tambahkan data.
+- Daftar github
+- Berikan username/email ke Admin
+- Setelah ada konfirmasi dari Admin silahkan cek email undangan dari infbel/ngus
+- View invitation lalu Accept
+
+## 🎣 DATA PHISHING
+
+Cara berkontribusinya cukup edit file `detectPhishing.json` dan tambahkan data.
 
 ## 📋 Panduan Isi Setiap Bagian
 
@@ -18,22 +25,13 @@ Cukup edit file `detectPhishing.json` dan tambahkan data.
 | suspicious_paths | Path di URL yang sering dipakai phishing | "/login", "/verify" |
 | redirectParams | Parameter URL yang digunakan untuk redirect ke website lain | "redirect", "url", "next" |
 
-## 🔍 Cara Mendeteksi Link Phishing
-
-Ciri-ciri link mencurigakan:
-
-- Domain acak/tidak jelas (contoh: hjsd83jksd.top)
-- Ekstensi murah (.cfd, .click, .top, .xyz)
-- Mirip brand terkenal tapi beda dikit (contoh: paypal-verify.xyz)
-- Berisi kata "login", "verify", "klaim" (contoh: bca-verifikasi.cfd)
-- Dapat dari SMS/WA tidak dikenal
-
-## ✏️ Cara Edit File
+## ✏️ Cara Update Data
 
 1. Buka file `detectPhishing.json` di repository ini
 2. Klik tombol pensil (Edit) di pojok kanan atas
 3. Tambahkan data baru di bagian yang sesuai
 4. Klik "Commit changes" (tombol hijau)
+5. Isi commit message dan Extended description (opsional)
 
 ### Contoh penambahan yang BENAR (semua pakai koma kecuali data terakhir):
 
@@ -79,31 +77,6 @@ Ciri-ciri link mencurigakan:
 | .com ke bad_tlds | Terlalu umum, website bagus juga pakai .com |
 | Path /about | Tidak mencurigakan |
 | Domain yang belum jelas kebenarannya | Bisa kena false positive |
-
-## 📢 Cara Kirim Laporan (Pull Request)
-
-Ikuti langkah-langkah ini untuk mengusulkan perubahan:
-
-1. **Fork repository ini** (klik tombol Fork di pojok kanan atas)
-
-2. **Edit file `detectPhishing.json`** di fork kamu:
-   - Klik file `detectPhishing.json`
-   - Klik tombol pensil (Edit)
-   - Tambahkan data baru sesuai format
-   - Klik "Commit changes" (simpan di fork kamu)
-
-3. **Buat Pull Request (PR)** ke repository utama:
-   - Buka tab "Pull Requests"
-   - Klik "New Pull Request"
-   - Pilih branch fork kamu → branch utama
-   - Klik "Create Pull Request"
-   - Beri judul dan deskripsi singkat (contoh: "Menambahkan domain phishing baru")
-   - Klik "Create Pull Request" lagi
-
-4. **Tunggu admin review**:
-   - Admin akan memeriksa data kamu
-   - Jika valid, akan di-merge (disetujui)
-   - Jika kurang jelas, admin akan bertanya di kolom komentar
 
 ## 🙏 Terima Kasih
 
