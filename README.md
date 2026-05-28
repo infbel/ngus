@@ -63,7 +63,7 @@ Repository NGUS ini berisi data konfigurasi untuk mendeteksi **link phishing, sc
 |-------|---------|--------|
 | `rotatorKeywords` | Kata kunci yang menandakan link rotator/content locker | `"please wait"`, `"loading"`, `"captcha"` |
 
-**Kapan nambahin:** Ketika menemukan halaman dengan kata-kata baru yang menandakan link rotator.
+**Kapan nambahin:** Ketika menemukan halaman dengan kata-kata baru yang menkan link rotator.
 
 ### 5. [shortlinkDomains.json](./shortlinkDomains.json)
 
@@ -174,7 +174,7 @@ Repository NGUS ini berisi data konfigurasi untuk mendeteksi **link phishing, sc
 
 ## 🙏 Terima Kasih
 
-Setiap kontribusi yang Anda berikan **sangat berarti** dan membantu banyak orang terhindar dari:
+Setiap kontribusi **sangat berarti** dan membantu banyak orang terhindar dari:
 
 - 🎣 Penipuan phishing
 - 💰 Pencurian data keuangan
