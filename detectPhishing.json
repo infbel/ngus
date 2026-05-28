@@ -1,0 +1,92 @@
+{
+  "malicious_domains": [
+    "acswwajz.cfd",
+    "acswjza.cfd", 
+    "acsjwsna.cfd",
+    "rdxgo.click",
+    "lipbx.top",
+    "hup.lipbx.top",
+    "infinitetweet.me",
+    "gt.tc",
+    "bantuansosial.org"
+  ],
+  "bad_words": [
+    "login", "verify", "secure", "account", "wallet",
+    "bonus", "gift", "free", "claim",
+    "update", "confirm", "validate", "unlock", "alert",
+    "suspended", "restricted", "limited", "verify now",
+    "security", "important", "urgent", "notification",
+    "refund", "prize", "winner", "reward", "promotion",
+    "exclusive", "limited time", "action required",
+    "crypto", "bitcoin", "ethereum", "invest", "withdraw",
+    "deposit", "trading", "profit", "mining", "airdrop",
+    "staking", "defi", "nft", "mint",
+    "perbarui", "konfirmasi", "validasi", "buka blokir",
+    "tangguhkan", "batasi", "peringatan", "penting",
+    "hadiah", "pemenang", "promo", "eksklusif",
+    "menang", "klaim", "refund", "darurat",
+    "verifikasi", "keamanan", "tindakan diperlukan",
+    "bca", "bri", "mandiri", "bni", "cimb", "ocbc",
+    "dana", "ovo", "gopay", "linkaja", "paylater",
+    "kartu kredit", "transfer", "tagihan", "bayar",
+    "slot", "gacor", "jp", "maxwin", "deposit pulsa", "judol",
+    "official-cs", "halo-bca", "undian", "gebray", "gebyar", "brimo", 
+    "m-banking", "token", "otp", "pin", "kur", "layanan-pelanggan"
+  ],
+  "bad_tlds": [
+    ".xyz", ".top", ".click", ".shop", ".info",
+    ".tk", ".ml", ".ga", ".cf", ".gq",
+    ".live", ".online", ".site", ".website", ".space",
+    ".tech", ".digital", ".press", ".news",
+    ".bid", ".trade", ".webcam", ".download",
+    ".review", ".country", ".date", ".science",
+    ".party", ".racing", ".win", ".icu", ".cyou", 
+    ".monster", ".bond", ".beauty", ".hair", ".skin", 
+    ".foo", ".rest", ".pics", ".host", ".fun",
+    ".store", ".market", ".best", ".cfd",
+    ".vip", ".work", ".cc", ".biz", ".buzz", ".club", 
+    ".today", ".run", ".app"
+  ],
+  "brands": [
+    "paypal", "google", "facebook", "apple", "microsoft",
+    "telegram", "whatsapp", "instagram", "twitter", "x.com",
+    "binance", "shopee", "tokopedia",
+    "amazon", "ebay", "netflix", "spotify", "dropbox",
+    "linkedin", "tiktok", "snapchat", "reddit",
+    "adobe", "outlook", "yahoo", "aol", "icloud",
+    "coinbase", "crypto.com", "kucoin", "bybit", "okx",
+    "bitfinex", "huobi", "gateio", "uniswap",
+    "visa", "mastercard", "american express", "amex",
+    "western union", "moneygram", "wise", "revolut",
+    "payoneer", "skrill", "neteller", "stripe",
+    "bca", "bri", "mandiri", "bni", "cimb", "ocbc", "danamon",
+    "permata", "maybank", "panin", "mega", "sinarmas", "brisyariah", "bsi",
+    "dana", "ovo", "gopay", "linkaja", "isaku", "astrapay", "spay", "shopeepay",
+    "blibli", "bukalapak", "lazada", "jd.id", "zalora", "tiktokshop",
+    "traveloka", "tiket.com", "pegadaian", "indomaret", "alfamart",
+    "djp", "pajak", "bpjs", "imigrasi", "polri", "sim", "bpjs ketenagakerjaan",
+    "bpjs kesehatan", "kcic", "bea cukai", "stnk", "bpkb", "eform",
+    "bantuan pemerintah", "bansos", "blt", "pkh", "bpn", "ktp", "npwp",
+    "satusehat", "pln", "telkomsel", "indosat", "xl", "smartfren", "myim3"
+  ],
+  "safeDomainsForEncoding": [
+    "play.google.com", "apps.apple.com", "microsoft.com",
+    "amazon.com", "google.com", "youtube.com", "github.io",
+    "github.com", "cloudflare.com", "vercel.com", "netlify.com",
+    "bca.co.id", "bri.co.id", "bankmandiri.co.id", "bni.co.id", "go.id"
+  ],
+  "suspicious_paths": [
+    "/login", "/signin", "/verify", "/confirm", "/secure",
+    "/account", "/update", "/validate", "/authenticate",
+    "/2fa", "/two-factor", "/security", "/important",
+    "/auth", "/authorize", "/callback", "/webapps",
+    "/webscm", "/cgi-bin", "/wp-admin", "/administrator",
+    "/.env", "/config", "/backup", "/wp-content", "/app",
+    "/submit", "/checkout", "/payment", "/otp", "/verification"
+  ],
+  "redirectParams": [
+    "redirect", "redirect_to", "return", "return_to", "next",
+    "callback", "destination", "url", "link", "goto", "forward",
+    "ref", "target", "out", "exit", "to"
+  ]
+}
