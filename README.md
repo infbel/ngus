@@ -27,7 +27,8 @@ Repository NGUS ini berisi data untuk mendeteksi **link phishing, scam, situs be
 2. Klik tombol pensil (Edit) di pojok kanan atas
 3. Tambahkan data baru di bagian yang sesuai
 4. Klik "Commit changes" (tombol hijau)
-5. Isi commit message dan Extended description (opsional)
+5. Isi commit message, Extended description dan nama Branch (opsional)
+6. Propose changes (tombol hijau)
 
 ### Contoh penambahan yang BENAR (semua pakai koma kecuali data terakhir):
 
