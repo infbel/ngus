@@ -9,7 +9,7 @@ Repository NGUS ini berisi data untuk mendeteksi **link phishing, scam, situs be
 - Silahkan cek email undangan dari infbel/ngus
 - View invitation lalu Accept
 
-## 📋 Panduan Isi Setiap Bagian | `detectPhishing.json`
+## 📋 Panduan Isi Setiap Bagian | [detectPhishing.json](./detectPhishing.json)
 
 | Field | Artinya | Contoh |
 |-------|---------|--------|
