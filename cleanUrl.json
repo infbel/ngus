@@ -22,6 +22,7 @@
     "ranEAID", "ranSiteID", "pubNAME", "utm_nooverride", "shareChannel",
     "couponId", "matchtype", "keyword", "adposition", "targetid",
     "loc_physical_ms", "loc_interest_ms", "mkwid", "pcrid", "pdev",
-    "pmt", "plc", "pst"
+    "pmt", "plc", "pst", "__mobile__", "affiliate_seller_voucher_token",
+    "exp_group", "gads_t_sig"
   ]
 }
