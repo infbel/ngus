@@ -5,15 +5,11 @@ Repository NGUS ini berisi data untuk mendeteksi **link phishing, scam, situs be
 # 🤝 Cara Berkontribusi
 
 - Daftar github
-- Berikan username/email ke Admin
-- Setelah ada konfirmasi dari Admin silahkan cek email undangan dari infbel/ngus
+- Berikan username/email ke Admin dan tunggu konfirmasi
+- Silahkan cek email undangan dari infbel/ngus
 - View invitation lalu Accept
 
-## 🎣 DATA PHISHING
-
-Cara berkontribusinya cukup edit file `detectPhishing.json` dan tambahkan data.
-
-## 📋 Panduan Isi Setiap Bagian
+## 📋 Panduan Isi Setiap Bagian | `detectPhishing.json`
 
 | Field | Artinya | Contoh |
 |-------|---------|--------|
@@ -65,9 +61,7 @@ Cara berkontribusinya cukup edit file `detectPhishing.json` dan tambahkan data.
 
 ## ⏱️ Proses Update
 
-- Setelah kamu edit file dan commit, admin akan melakukan review terlebih dahulu
-- Jika data valid, admin akan menyetujui perubahan (merge)
-- Setelah disetujui, Worker akan mengambil data baru dalam waktu maksimal 1 jam
+- Setelah tambah data dan commit, Worker UnShort akan mengambil data baru dalam waktu maksimal 1 jam
 
 ## 💡 Yang JANGAN Ditambahkan
 
@@ -80,6 +74,6 @@ Cara berkontribusinya cukup edit file `detectPhishing.json` dan tambahkan data.
 
 ## 🙏 Terima Kasih
 
-Setiap kontribusi kamu membantu orang lain terhindar dari penipuan online. Setiap Pull Request akan direview secepat mungkin.
+Setiap kontribusi membantu pengguna UnShort terhindar dari penipuan online.
 
-Ada pertanyaan? Hubungi admin.
+Ada pertanyaan? Hubungi Admin.
