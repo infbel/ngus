@@ -1,0 +1,27 @@
+{
+  "trackingParams": [
+    "utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content",
+    "utm_id", "utm_name", "fbclid", "gclid", "mc_cid", "mc_eid", "igshid",
+    "_ga", "_gl", "mmp_pid", "uls_trackid", "af_click_lookback", "af_siteid",
+    "af_sub1", "af_sub2", "af_sub3", "af_sub4", "af_sub5", "pid", "c",
+    "is_retargeting", "deep_and_deferred", "af_dp", "si", "share_app_id",
+    "share_iid", "sp_atk", "smtt", "source", "feature", "campaign", "ref",
+    "ref_src", "tracking_id", "ad_id", "adset_id", "campaign_id", "click_id",
+    "sponsor", "ig_mid", "tt_from", "tt_medium", "_fb_noscript", "referrer",
+    "referral", "ref_code", "affiliate", "aff_id", "affiliate_id", "referer",
+    "ref_id", "ref_source", "aff_sub", "aff_sub1", "aff_sub2", "affiliate_code",
+    "affiliate_name", "clickid", "click_id2", "cid", "tid", "eid", "partner",
+    "partner_id", "src", "source_id", "medium", "term", "content", "placement",
+    "device", "network", "wbraid", "gbraid", "dclid", "msclkid", "yclid",
+    "ttclid", "tt_campaign_id", "tt_adset_id", "tt_ad_id", "scclid",
+    "snap_pid", "pin_click_id", "epik", "li_fat_id", "twclid",
+    "af_ad", "af_adset", "af_adset_id", "af_campaign", "af_campaign_id",
+    "af_channel", "af_ad_id", "af_c_id", "k_clickid", "branch_referrer",
+    "branch_match_id", "email_id", "campaign_name", "campaign_source",
+    "campaign_medium", "creative", "creative_id", "siteID", "ranMID",
+    "ranEAID", "ranSiteID", "pubNAME", "utm_nooverride", "shareChannel",
+    "couponId", "matchtype", "keyword", "adposition", "targetid",
+    "loc_physical_ms", "loc_interest_ms", "mkwid", "pcrid", "pdev",
+    "pmt", "plc", "pst"
+  ]
+}
