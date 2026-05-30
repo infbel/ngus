@@ -8,7 +8,10 @@
     "twclid", "af_ad", "af_adset", "af_adset_id", "af_campaign", "af_campaign_id", "af_channel", "af_ad_id", "af_c_id", "k_clickid", "branch_referrer", "branch_match_id", "email_id", "campaign_name", "campaign_source",
     "campaign_medium", "creative", "creative_id", "siteID", "ranMID", "ranEAID", "ranSiteID", "pubNAME", "utm_nooverride", "shareChannel", "couponId", "matchtype", "keyword", "adposition", "targetid", "loc_physical_ms",
     "loc_interest_ms", "mkwid", "pcrid", "pdev", "pmt", "plc", "pst", "__mobile__", "affiliate_seller_voucher_token", "exp_group", "gads_t_sig", "sid", "reg_token", "referral_code", "member", "extraParams", "xptdk", "r",
-    "mmp_campaign", "mmp_ad_id", "mmp_account_id", "mmp_conversion_app", "clientId", "client_id", "brandId", "merchantId", "restaurantId", "storeId"
+    "mmp_campaign", "mmp_ad_id", "mmp_account_id", "mmp_conversion_app", "clientId", "client_id", "brandId", "merchantId", "restaurantId", "storeId", "type", "app_absent", "_r", "_t", "_d", "click_time", "spm", "scm",
+    "x_tr_sl", "x_tr_tl", "x_tr_hl", "x_tr_pto", "mt_click_id", "mt_ad_id", "s_kwcid", "ndclid", "pk_campaign", "pk_keyword", "pk_source", "pk_medium", "pk_content", "pk_cid", "piwik_campaign", "piwik_kwd", "hsa_cam",
+    "hsa_grp", "hsa_ad", "hsa_src", "hsa_net", "hsa_ver", "hsa_acc", "hsa_tgt", "sc_campaign", "sc_channel", "sc_content", "sc_medium", "sc_source", "sc_outcome", "icid", "ccid", "rb_clickid", "vgo_ee", "s_cid",
+    "sap-outbound-id", "mkt_tok"
   ],
   "removeNumericSuffix": true,
   "numericSuffixPaths": [
