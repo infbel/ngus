@@ -7,101 +7,40 @@
     "dewatrack.com", "bola88you.com", "wtgplay.xyz", "bola88pp.org", "bl88pildun.com", "idn.bio", "indo.skin", "jotunhiroi.com", "jotuncyber.com", "jotunlambe.com", "jotunwand.com", "jotuntoto.com", "jotuntoto.it.com",
     "jotuntoto.b-cdn.net", "apkjotuntoto.com", "jotunpredict.com", "jotunrtp.com", "jotunmortal.com", "rapide.vip", "jotuntoto.net", "jotunjackpot.com", "ronangelo.com", "jotunhelios.com", "jotunhydra.com",
     "jotunvision.com", "jotunhours.com", "jotunband.com", "jotunshine.com", "jotuntron.com", "jotundoom.com", "jotunlotus.com", "jotunezzy.com", "jotunpagani.com", "jotunsora.com", "qq882fbp.com", "telega.me",
-    "ersetompl.com", "erdnasenews.to", "erdnasemagicstore.io", "telega.info"
+    "ersetompl.com", "erdnasenews.to", "erdnasemagicstore.io", "telega.info", "kakaktua4d.site", "idndemo.com", "idnsp.net", "kakaktuacrown.wixsite.com", "kakaktua4d.space", "1000.skin", "mez.ink", "linkr.bio",
+    "onelink.me", "topcer88y.com", "icyvps.site", "webeducks.com", "agroburung.com"
   ],
   "bad_words": [
-    "login", "verify", "secure", "account", "wallet",
-    "bonus", "gift", "free", "claim",
-    "update", "confirm", "validate", "unlock", "alert",
-    "suspended", "restricted", "limited", "verify now",
-    "security", "important", "urgent", "notification",
-    "refund", "prize", "winner", "reward", "promotion",
-    "exclusive", "limited time", "action required",
-    "crypto", "bitcoin", "ethereum", "invest", "withdraw",
-    "deposit", "trading", "profit", "mining", "airdrop",
-    "staking", "defi", "nft", "mint",
-    "perbarui", "konfirmasi", "validasi", "buka blokir",
-    "tangguhkan", "batasi", "peringatan", "penting",
-    "hadiah", "pemenang", "promo", "eksklusif",
-    "menang", "klaim", "refund", "darurat",
-    "verifikasi", "keamanan", "tindakan diperlukan",
-    "bca", "bri", "mandiri", "bni", "cimb", "ocbc",
-    "dana", "ovo", "gopay", "linkaja", "paylater",
-    "kartu kredit", "transfer", "tagihan", "bayar",
-    "slot", "gacor", "jp", "maxwin", "deposit pulsa", "judol",
-    "official-cs", "halo-bca", "undian", "gebray", "gebyar", "brimo", 
-    "m-banking", "token", "otp", "pin", "kur", "layanan-pelanggan"
+    "login", "verify", "secure", "account", "wallet", "bonus", "gift", "free", "claim", "update", "confirm", "validate", "unlock", "alert", "suspended", "restricted", "limited", "verify now", "security", "important",
+    "urgent", "notification", "refund", "prize", "winner", "reward", "promotion", "exclusive", "limited time", "action required", "crypto", "bitcoin", "ethereum", "invest", "withdraw", "deposit", "trading", "profit",
+    "mining", "airdrop", "staking", "defi", "nft", "mint", "perbarui", "konfirmasi", "validasi", "buka blokir", "tangguhkan", "batasi", "peringatan", "penting", "hadiah", "pemenang", "promo", "eksklusif", "menang",
+    "klaim", "refund", "darurat", "verifikasi", "keamanan", "tindakan diperlukan", "bca", "bri", "mandiri", "bni", "cimb", "ocbc", "dana", "ovo", "gopay", "linkaja", "paylater", "kartu kredit", "transfer", "tagihan",
+    "bayar", "slot", "gacor", "jp", "maxwin", "deposit pulsa", "judol", "official-cs", "halo-bca", "undian", "gebray", "gebyar", "brimo", "m-banking", "token", "otp", "pin", "kur", "layanan-pelanggan"
   ],
   "bad_tlds": [
     ".xyz", ".top", ".click", ".tk", ".ml", ".ga", ".cf", ".gq", ".bid", ".trade", ".download", ".review", ".party", ".win", ".icu", ".cyou", ".monster", ".beauty", ".hair", ".skin", ".pics", ".vip", ".buzz"
   ],
   "brands": [
-    "paypal", "google", "facebook", "apple", "microsoft",
-    "telegram", "whatsapp", "instagram", "twitter", "x.com",
-    "binance", "shopee", "tokopedia",
-    "amazon", "ebay", "netflix", "spotify", "dropbox",
-    "linkedin", "tiktok", "snapchat", "reddit",
-    "adobe", "outlook", "yahoo", "aol", "icloud",
-    "coinbase", "crypto.com", "kucoin", "bybit", "okx",
-    "bitfinex", "huobi", "gateio", "uniswap",
-    "visa", "mastercard", "american express", "amex",
-    "western union", "moneygram", "wise", "revolut",
-    "payoneer", "skrill", "neteller", "stripe",
-    "bca", "bri", "mandiri", "bni", "cimb", "ocbc", "danamon",
-    "permata", "maybank", "panin", "mega", "sinarmas", "brisyariah", "bsi",
-    "dana", "ovo", "gopay", "linkaja", "isaku", "astrapay", "spay", "shopeepay",
-    "blibli", "bukalapak", "lazada", "jd.id", "zalora", "tiktokshop",
-    "traveloka", "tiket.com", "pegadaian", "indomaret", "alfamart",
-    "djp", "pajak", "bpjs", "imigrasi", "polri", "sim", "bpjs ketenagakerjaan",
-    "bpjs kesehatan", "kcic", "bea cukai", "stnk", "bpkb", "eform",
-    "bantuan pemerintah", "bansos", "blt", "pkh", "bpn", "ktp", "npwp",
-    "satusehat", "pln", "telkomsel", "indosat", "xl", "smartfren", "myim3"
+    "paypal", "google", "facebook", "apple", "microsoft", "telegram", "whatsapp", "instagram", "twitter", "x.com", "binance", "shopee", "tokopedia", "amazon", "ebay", "netflix", "spotify", "dropbox", "linkedin",
+    "tiktok", "snapchat", "reddit", "adobe", "outlook", "yahoo", "aol", "icloud", "coinbase", "crypto.com", "kucoin", "bybit", "okx", "bitfinex", "huobi", "gateio", "uniswap", "visa", "mastercard", "american express",
+    "amex", "western union", "moneygram", "wise", "revolut", "payoneer", "skrill", "neteller", "stripe", "bca", "bri", "mandiri", "bni", "cimb", "ocbc", "danamon", "permata", "maybank", "panin", "mega", "sinarmas",
+    "brisyariah", "bsi", "dana", "ovo", "gopay", "linkaja", "isaku", "astrapay", "spay", "shopeepay", "blibli", "bukalapak", "lazada", "jd.id", "zalora", "tiktokshop", "traveloka", "tiket.com", "pegadaian", "indomaret",
+    "alfamart", "djp", "pajak", "bpjs", "imigrasi", "polri", "sim", "bpjs ketenagakerjaan", "bpjs kesehatan", "kcic", "bea cukai", "stnk", "bpkb", "eform", "bantuan pemerintah", "bansos", "blt", "pkh", "bpn", "ktp",
+    "npwp", "satusehat", "pln", "telkomsel", "indosat", "xl", "smartfren", "myim3"
   ],
   "safeDomainsForEncoding": [
-    "play.google.com", "apps.apple.com", "microsoft.com",
-    "amazon.com", "google.com", "youtube.com", "github.io",
-    "github.com", "cloudflare.com", "vercel.com", "netlify.com",
-    "bca.co.id", "bri.co.id", "bankmandiri.co.id", "bni.co.id", "go.id"
+    "play.google.com", "apps.apple.com", "microsoft.com", "amazon.com", "google.com", "youtube.com", "github.io", "github.com", "cloudflare.com", "vercel.com", "netlify.com", "bca.co.id", "bri.co.id", "bankmandiri.co.id",
+    "bni.co.id", "go.id"
   ],
   "suspicious_paths": [
-    "/login", "/signin", "/verify", "/confirm", "/secure",
-    "/account", "/update", "/validate", "/authenticate",
-    "/2fa", "/two-factor", "/security", "/important",
-    "/auth", "/authorize", "/callback", "/webapps",
-    "/webscm", "/cgi-bin", "/wp-admin", "/administrator",
-    "/.env", "/config", "/backup", "/wp-content", "/app",
-    "/submit", "/checkout", "/payment", "/otp", "/verification"
+    "/login", "/signin", "/verify", "/confirm", "/secure", "/account", "/update", "/validate", "/authenticate", "/2fa", "/two-factor", "/security", "/important", "/auth", "/authorize", "/callback", "/webapps", "/webscm",
+    "/cgi-bin", "/wp-admin", "/administrator", "/.env", "/config", "/backup", "/wp-content", "/app", "/submit", "/checkout", "/payment", "/otp", "/verification"
   ],
   "redirectParams": [
-    "redirect", "redirect_to", "return", "return_to", "next",
-    "callback", "destination", "url", "link", "goto", "forward",
-    "ref", "target", "out", "exit", "to"
+    "redirect", "redirect_to", "return", "return_to", "next", "callback", "destination", "url", "link", "goto", "forward", "ref", "target", "out", "exit", "to"
   ],
   "whitelist_domains": [
-    "amazon.com",
-    "amazon.in",
-    "amazon.co.uk",
-    "amazon.ca",
-    "amazon.de",
-    "amazon.fr",
-    "amazon.es",
-    "amazon.it",
-    "google.com",
-    "google.co.id",
-    "google.co.uk",
-    "facebook.com",
-    "fb.com",
-    "instagram.com",
-    "twitter.com",
-    "x.com",
-    "whatsapp.com",
-    "telegram.org",
-    "paypal.com",
-    "shopee.com",
-    "shopee.co.id",
-    "tokopedia.com",
-    "blibli.com",
-    "lazada.com",
-    "lazada.co.id"
+    "amazon.com", "amazon.in", "amazon.co.uk", "amazon.ca", "amazon.de", "amazon.fr", "amazon.es", "amazon.it", "google.com", "google.co.id", "google.co.uk", "facebook.com", "fb.com", "instagram.com", "twitter.com",
+    "x.com", "whatsapp.com", "telegram.org", "paypal.com", "shopee.com", "shopee.co.id", "tokopedia.com", "blibli.com", "lazada.com", "lazada.co.id"
   ]
 }
