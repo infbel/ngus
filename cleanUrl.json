@@ -11,7 +11,7 @@
     "mmp_campaign", "mmp_ad_id", "mmp_account_id", "mmp_conversion_app", "clientId", "client_id", "brandId", "merchantId", "restaurantId", "storeId", "type", "app_absent", "_r", "_t", "_d", "click_time", "spm", "scm",
     "x_tr_sl", "x_tr_tl", "x_tr_hl", "x_tr_pto", "mt_click_id", "mt_ad_id", "s_kwcid", "ndclid", "pk_campaign", "pk_keyword", "pk_source", "pk_medium", "pk_content", "pk_cid", "piwik_campaign", "piwik_kwd", "hsa_cam",
     "hsa_grp", "hsa_ad", "hsa_src", "hsa_net", "hsa_ver", "hsa_acc", "hsa_tgt", "sc_campaign", "sc_channel", "sc_content", "sc_medium", "sc_source", "sc_outcome", "icid", "ccid", "rb_clickid", "vgo_ee", "s_cid",
-    "sap-outbound-id", "mkt_tok", "contentType", "fromShareLink", "fromSource", "jumpType", "myVideo", "shareUserId", "share_obj"
+    "sap-outbound-id", "mkt_tok", "contentType", "fromShareLink", "fromSource", "jumpType", "myVideo", "shareUserId", "share_obj", "d_id"
   ],
   "removeNumericSuffix": true,
   "numericSuffixPaths": [
