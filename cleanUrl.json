@@ -8,7 +8,7 @@
     "twclid", "af_ad", "af_adset", "af_adset_id", "af_campaign", "af_campaign_id", "af_channel", "af_ad_id", "af_c_id", "k_clickid", "branch_referrer", "branch_match_id", "email_id", "campaign_name", "campaign_source",
     "campaign_medium", "creative", "creative_id", "siteID", "ranMID", "ranEAID", "ranSiteID", "pubNAME", "utm_nooverride", "shareChannel", "couponId", "matchtype", "keyword", "adposition", "targetid", "loc_physical_ms",
     "loc_interest_ms", "mkwid", "pcrid", "pdev", "pmt", "plc", "pst", "__mobile__", "affiliate_seller_voucher_token", "exp_group", "gads_t_sig", "sid", "reg_token", "referral_code", "member", "extraParams", "xptdk", "r",
-    "mmp_campaign", "mmp_ad_id", "mmp_account_id", "mmp_conversion_app", "clientId", "client_id"
+    "mmp_campaign", "mmp_ad_id", "mmp_account_id", "mmp_conversion_app", "clientId", "client_id", "brandId", "merchantId", "restaurantId", "storeId"
   ],
   "removeNumericSuffix": true,
   "numericSuffixPaths": [
